@@ -1,4 +1,4 @@
-# eredis
+# eredis [![Bitdeli Badge](https://d38jwvt3lv6c1n.cloudfront.net/tuulos/eredis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 Redis client with a focus on performance. Eredis also supports AUTH
 and SELECT.
