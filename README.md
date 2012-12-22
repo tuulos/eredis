@@ -126,3 +126,6 @@ Although this project is almost a complete rewrite, many patterns are
 the same as you find in Erldis, most notably the queueing of requests.
 
 `create_multibulk/1` and `to_binary/1` were taken verbatim from Erldis.
+
+[![Bitdeli Badge](https://d38jwvt3lv6c1n.cloudfront.net/tuulos/eredis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
