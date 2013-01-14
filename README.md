@@ -129,3 +129,7 @@ the same as you find in Erldis, most notably the queueing of requests.
 
 [![Bitdeli Badge](https://d38jwvt3lv6c1n.cloudfront.net/tuulos/eredis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tuulos/eredis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
